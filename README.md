@@ -4,7 +4,7 @@
 Transformar dados brutos em visualizações claras e úteis, facilitando a análise de vendas do Xbox Game Pass e permitindo tomadas de decisão baseadas em dados.
 
 ## 📁 Estrutura do Arquivo
-O arquivo `dashboard_xbox.xlsx` contém:
+O arquivo `DASHBOARD VENDAS XBOX -.xlsx` contém:
 - **Aba Bases:** dados brutos de vendas por assinatura
 - **Aba Cálculos:** KPIs e métricas calculadas
 - **Aba Dashboard:** painel visual interativo com gráficos, segmentações e indicadores
